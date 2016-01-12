@@ -22,5 +22,5 @@ Dokumentacja klas jezyka Ruby:
   - [Hash](ruby.md)
   - [Array](ruby.md)
   - [Enumerable](ruby.md)
-2. [x] Coś do przetestowania na początek
+2. [x] [Coś do przetestowania na początek](https://github.com/AdriannaPopko/Ruby/tree/master/zadanie2)
 3. [x] [Program/Biblioteka/Aplikacja WWW](https://github.com/ProjNaRok1516/ruby-www)
